@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **pooja.bennabhaktula@gmail.com**
+- 📫 Mail me at **pooja.bennabhaktula@gmail.com**
 
 - ⚡ Fun fact **I bake scrumptious brownies.**
 
