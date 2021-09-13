@@ -1,7 +1,7 @@
-<a href="#"><img width="50%" height="auto" src="https://i.pinimg.com/originals/31/f0/57/31f0570fa76f0a6dabebdfb3fc0f4347.jpg" height="700px"/></a>
+<!-- <a href="#"><img width="50%" height="auto" src="https://i.pinimg.com/originals/31/f0/57/31f0570fa76f0a6dabebdfb3fc0f4347.jpg" height="700px"/></a>
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pooja</h1>
+ -->
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pooja!</h1>
 <h3 align="center">I'm a budding Full Stack Developer from India.</h3>
 
 
