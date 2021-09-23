@@ -5,7 +5,7 @@
 <h3 align="center">I'm a budding Full Stack Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+## :superhero_woman: About Me
 
 
 - :brain: I’m currently learning **Data Structures and Algorithms.**
