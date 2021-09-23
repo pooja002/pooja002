@@ -8,9 +8,9 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- :brain: I’m currently learning **Data Structures and Algorithms.**
 
-- :brain: I'm also contributing to <a href="https://github.com/girlscript/winter-of-contributing" target="_blank">GSWOC</a>
+- 🌱 And contributing to <a href="https://github.com/girlscript/winter-of-contributing" target="_blank">GSWOC</a>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
