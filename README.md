@@ -2,7 +2,7 @@
 
  -->
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pooja!</h1>
-<h3 align="center">I'm a budding Full Stack Developer from India.</h3>
+<h3 align="center">I'm Backend Developer from India.</h3>
 
 
 ## :superhero_woman: About Me
